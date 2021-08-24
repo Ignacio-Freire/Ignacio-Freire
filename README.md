@@ -31,7 +31,7 @@ _**Solidity Developer at [@LossLess.cash](https://github.com/Lossless-Cash) [Aug
 
 Develop smart contract based solutions and testing.
 
-Some of my responsibilities were:
+Some of my responsibilities are:
 - Develop Smart Contracts in Solidity
 - Testing with Hardhat
 - New Features Analysis
@@ -41,7 +41,7 @@ _**Lead at Rodeo Solutions                               [2019 - Ongoing]**_
 
 Develop, audit and coaching. For the past couple of years I've been slowly building experience and a portfolio in the Crypto World. Have developed several tokens, audited and coached clients on how to make their ideas become real. 
 
-Some of my responsibilities were:
+Some of my responsibilities are:
 - Refactor for OpenZepplin integration.
 - Refactor to BEP20 and ERC20 standards.
 - BEP20 and ERC20 Tokens developed with Solidity.
