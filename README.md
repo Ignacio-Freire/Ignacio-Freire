@@ -10,6 +10,8 @@ Getting ready for Web3.0!
 
 Working on several proyects ranging from COBOL to Solidity. Yes, as you heard, from the 🦕dinos🦖 to the 🚀moon🌘!
 
+Started at [LossLess.cash](https://lossless.cash/) recently as a full time Solidity developer. An amazing protocol that is the first DeFi hack mitigation tool for token creators. 
+
 Slowly building [@RodeoSolutions](https://github.com/RodeoSolutions) and accepting new requests at [Fiverr](https://www.fiverr.com/ignfreire). In the past year I have developed, coached and audited several ERC20 and BEP20 Tokens requested by clients which can be found on Rodeo's github page.
 
 ## Where to find me...
