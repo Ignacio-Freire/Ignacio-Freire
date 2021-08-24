@@ -25,6 +25,16 @@ Slowly building [@RodeoSolutions](https://github.com/RodeoSolutions) and accepti
 
 ## Career...
 
+_**Solidity Developer at [@LossLess.cash](https://github.com/Lossless-Cash) [Aug 2021 - Ongoing]**_
+
+Develop smart contract based solutions and testing.
+
+Some of my responsibilities were:
+- Develop Smart Contracts in Solidity
+- Testing with Hardhat
+- New Features Analysis
+
+
 _**Lead at Rodeo Solutions                               [2019 - Ongoing]**_
 
 Develop, audit and coaching. For the past couple of years I've been slowly building experience and a portfolio in the Crypto World. Have developed several tokens, audited and coached clients on how to make their ideas become real. 
