@@ -34,7 +34,7 @@ Some of my responsibilities are:
 - New Features Analysis
 
 
-_**Lead at Rodeo Solutions                               [2019 - July 2021]**_
+_**Lead at Rodeo Solutions                               [2019 - Ongoing]**_
 
 Develop, audit and coaching. For the past couple of years I've been slowly building experience and a portfolio in the Crypto World. Have developed several tokens, audited and coached clients on how to make their ideas become real. 
 
