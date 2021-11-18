@@ -12,14 +12,11 @@ Working on several proyects ranging from COBOL to Solidity. Yes, as you heard, f
 
 Started at [LossLess.cash](https://lossless.cash/) recently as a full time Solidity developer. An amazing protocol that is the first DeFi hack mitigation tool for token creators. 
 
-Slowly building [@RodeoSolutions](https://github.com/RodeoSolutions) and accepting new requests at [Fiverr](https://www.fiverr.com/ignfreire). In the past year I have developed, coached and audited several ERC20 and BEP20 Tokens requested by clients which can be found on Rodeo's github page.
 
 ## Where to find me...
 
 
 💼[Linkedin](https://www.linkedin.com/in/ignacio-freire-531a2051/)
-
-🖥[Fiverr](https://www.fiverr.com/ignfreire)
 
 ✉️[Telegram](https://t.me/theRealTakawaka)
 
@@ -37,7 +34,7 @@ Some of my responsibilities are:
 - New Features Analysis
 
 
-_**Lead at Rodeo Solutions                               [2019 - Ongoing]**_
+_**Lead at Rodeo Solutions                               [2019 - July 2021]**_
 
 Develop, audit and coaching. For the past couple of years I've been slowly building experience and a portfolio in the Crypto World. Have developed several tokens, audited and coached clients on how to make their ideas become real. 
 
@@ -51,7 +48,7 @@ Some of my responsibilities are:
 - General Tokenomics coaching.
 - React Native Dapps.
 
-_**COBOL Proyect Manager and Tech lead                                [2019 - Ongoing]**_
+_**COBOL Proyect Manager and Tech lead                                [2019 - December 2021]**_
 
 COBOL Proyect Manager and Tech lead of a 12 person team for an international banking entity, BBVA. Designing and delivering systems and solutions that have impact on the whole userbase.
 
