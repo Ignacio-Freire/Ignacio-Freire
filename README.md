@@ -6,11 +6,11 @@ All around technology enthusiast, love spending hours and hours reading about th
 
 Getting ready for Web3.0!
 
+From the 🦕dinos🦖 to the 🚀moon🌘!
+
 ## Currently...
 
-Working on several proyects ranging from COBOL to Solidity. Yes, as you heard, from the 🦕dinos🦖 to the 🚀moon🌘!
-
-Started at [LossLess.cash](https://lossless.cash/) recently as a full time Solidity developer. An amazing protocol that is the first DeFi hack mitigation tool for token creators. 
+Working as a Core Solidity Dev at Lossless, developing the first DeFi hack mitigation tool for tokens and the cryptospace. 
 
 
 ## Where to find me...
@@ -24,14 +24,17 @@ Started at [LossLess.cash](https://lossless.cash/) recently as a full time Solid
 
 ## Career...
 
-_**Solidity Developer at [@LossLess.cash](https://github.com/Lossless-Cash) [Aug 2021 - Ongoing]**_
+_**Core Solidity Developer at [@LossLess.cash](https://github.com/Lossless-Cash) [Aug 2021 - Ongoing]**_
 
 Develop smart contract based solutions and testing.
 
 Some of my responsibilities are:
 - Develop Smart Contracts in Solidity
-- Testing with Hardhat
+- Unit and Integration tests
 - New Features Analysis
+- Cross chain ineroperability
+- Foundry Integration
+- Slither Integration
 
 
 _**Lead at Rodeo Solutions                               [2019 - Ongoing]**_
