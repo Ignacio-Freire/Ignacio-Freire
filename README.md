@@ -4,7 +4,7 @@
 
 All around technology enthusiast, love spending hours and hours reading about the upcoming as well as our past. With around 10 years in COBOL and banking experience professionally I am constantly challenging myself on new technologies. Been using Python as a hobby for the past 6 years and lately, for the past 2 I've taken on succesfully several projects on Solidity.
 
-Getting ready for Web3.0!
+Ready for Web3!
 
 From the 🦕dinos🦖 to the 🚀moon🌘!
 
