@@ -2,7 +2,7 @@
 
 ## About me...
 
-All around technology enthusiast, love spending hours and hours reading about the upcoming as well as our past. With around 10 years in COBOL and banking experience professionally I am constantly challenging myself on new technologies. Been using Python as a hobby for the past 6 years and lately, for the past 2 I've taken on succesfully several projects on Solidity.
+All around technology enthusiast, love spending hours and hours reading about the upcoming as well as our past. With around 10 years in COBOL and banking experience professionally I am constantly challenging myself on new technologies. Been using Python as a hobby for the past 8 years and lately, for the past 3 I've taken on succesfully several projects on Solidity.
 
 Ready for Web3!
 
@@ -26,42 +26,30 @@ Working as a Core Solidity Dev at Lossless, developing the first DeFi hack mitig
 
 _**Core Solidity Developer at [@LossLess.cash](https://github.com/Lossless-Cash) [Aug 2021 - Ongoing]**_
 
-Develop smart contract based solutions and testing.
+Working on several products at Lossless aiming at making the blockchain ecosystem more secure. 
 
-Some of my responsibilities are:
+For prevention we’re continuously building Aegis, an early alert system which works by analyzing each transaction mined by a blockchain and applying various strategies and a machine learning model to determine its risk. Working both on-chain by pushing the risk scores and providing the ability to act directly and off-chain with notification systems. 
+
+On-chain there we built two products aimed at hack mitigation, Lossless Core Protocol and Lossless Vault Protection System. Both of them interact with a main Lossless Controller to allow various features such as fun draining prevention, reporting on malicious transactions with the potential outcome of reverting it, staking on reports, etc.
+
+Currently my focus is on Wrapped tokens which derive in two paths. Lossless Wrapped ERC20s which allow any token to be wrapped with Lossless Core Protocol, allowing easier integration. And WERC20 Extensible tokens which act as a new standard for wrapped tokens allowing the installation of smart contract extensions at any point without the need of redeploying the core smart contract. 
+
+### My responsibilities are
+
 - Develop Smart Contracts in Solidity
-- Unit and Integration tests
-- New Features Analysis
-- Cross chain ineroperability
-- Foundry Integration
-- Slither Integration
+- Recursive testing
+- Hack/Exploits mitigation and analysis
+- New Features Analysis and implementation
+- Audits interaction
+- R&D
+- NestJS Backend Development
+- UX/UI Q&A
+- New products design
 
+### Skills
+  [Solidity, Typescript, Python]
 
-_**Lead at Rodeo Solutions                               [2019 - Ongoing]**_
-
-Develop, audit and coaching. For the past couple of years I've been slowly building experience and a portfolio in the Crypto World. Have developed several tokens, audited and coached clients on how to make their ideas become real. 
-
-Some of my responsibilities are:
-- Refactor for OpenZepplin integration.
-- Refactor to BEP20 and ERC20 standards.
-- BEP20 and ERC20 Tokens developed with Solidity.
-- BEP20 and ERC20 Tokens audited.
-- Whitepaper confection.
-- ICO Roadmaps coaching.
-- General Tokenomics coaching.
-- React Native Dapps.
-
-_**COBOL Proyect Manager and Tech lead                                [2019 - December 2021]**_
-
-COBOL Proyect Manager and Tech lead of a 12 person team for an international banking entity, BBVA. Designing and delivering systems and solutions that have impact on the whole userbase.
-
-  - Designed and developed the back end side of a new home-banking feature for the credit cards system for users to reimburse their overpaid balance.
-  - Designed and developed the back end side of several internal tools improving up to 40% of reporting speeds.
-  - Designed and developed the back end side of a complete overhaul of the rewards point system of the bank for the entire South American user base.
-
-🤖 Technologies used: COBOL, CICIS, SQL, DB2, Changeman, JCL, Unix, Altamira
-
-
-_**COBOL and Python dev.                             [2011 - 2019]**_
-
-Before the past two years I've been performing as a COBOL developer in the banking world and as a Python enthusiast as well as some freelance work. 
+### Technologies
+  [Forge, Hardhat, Nest.Js, React, FastAPI, PostgreSQL, GraphQL]
+  
+*For further experience refer to linkedin...*
