@@ -22,6 +22,8 @@ Working as a Core Solidity Dev at Lossless, developing the first DeFi hack mitig
 
 🎮[Discord](https://discordapp.com/users/145014000101359616)
 
+🐤[Twitter](https://twitter.com/nacho__freire)
+
 ## Career...
 
 _**Core Solidity Developer at [@LossLess.cash](https://github.com/Lossless-Cash) [Aug 2021 - Ongoing]**_
