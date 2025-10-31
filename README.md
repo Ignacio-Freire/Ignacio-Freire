@@ -12,10 +12,6 @@ Software Engineer at Olympix.ai, focusing on building security development tools
 
 💼 [LinkedIn](https://www.linkedin.com/in/ignacio-freire-531a2051/)
 
-✉️ [Telegram](https://t.me/theRealTakawaka)
-
-🎮 [Discord](https://discordapp.com/users/145014000101359616)
-
 🐤 [Twitter](https://twitter.com/nacho__freire)
 
 
